@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "name": "Building A",
+    "height": 120,
+    "zoning": "RC-G",
+    "value": 650000,
+    "coordinates": [[-114.0719, 51.0447]]
+  },
+  {
+    "id": 2,
+    "name": "Building B",
+    "height": 80,
+    "zoning": "C-COR1",
+    "value": 450000,
+    "coordinates": [[-114.0720, 51.0448]]
+  }
+]
